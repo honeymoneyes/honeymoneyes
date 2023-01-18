@@ -36,6 +36,6 @@
 ### :briefcase: My projects :
 
 ### :smile: :pencil2: :book: :mag_right: <a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with DAO</a>
-### :smile: :pencil2: :book: :mag_right: CRUD application with JDBC
-### :smile: :pencil2: :book: :mag_right: CRUD application with JdbcTemplate
-### :smile: :pencil2: :book: :mag_right: CRUD application with Jpa/Hibernate
+### :smile: :pencil2: :book: :mag_right: <a href="https://github.com/honeymoneyes/CRUDappWithJDBC">CRUD application with JDBC</a>
+### :smile: :pencil2: :book: :mag_right: <a href="https://github.com/honeymoneyes/CRUDappWithJdbcTemplate">CRUD application with JdbcTemplate</a>
+### :smile: :pencil2: :book: :mag_right: <a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with Jpa/Hibernate</a>
