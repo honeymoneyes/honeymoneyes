@@ -7,3 +7,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&pause=4000&center=true&vCenter=true&width=950&lines=Hi+there%2C+I'm+Alex!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&pause=4000&color=39F738&center=true&vCenter=true&width=950&lines=JAVA+BACKEND+DEVELOPER)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/2pD0ohD.gif" width="10000" />
