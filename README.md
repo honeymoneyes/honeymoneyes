@@ -83,6 +83,28 @@
 </table>
   </div>
   
+  
+<div align="center">
+
+  ---
+  
+### :cityscape: Project SBER :cityscape:
+  
+### Task: implement methods for sorting cities from a list by name in alphabetical descending order without case / case 
+  
+### sensitive, sorting a list of cities by federal district and city name within each federal district in alphabetical 
+  
+### descending order. Find the city with the maximum population and the number of cities in each region.
+  
+<table>
+  <tbody><tr>
+    <td><a href="https://github.com/honeymoneyes/ProjectSBER">Project SBER</a></td>
+  </tr>
+</tbody>
+</table>
+  </div>
+  
+  
 <div align="center">
   
 <img src="https://i.imgur.com/2pD0ohD.gif" width="10000" />  
