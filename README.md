@@ -51,6 +51,8 @@
 
 ### :smile: :pencil2: CRUD application :book: :mag_right:
 
+### Implemented methods for creating, searching, reading, deleting, updating people from the database.  
+  
 <table>
   <tbody><tr>
     <td><a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with DAO</a></td>
@@ -67,6 +69,10 @@
 
 ### :notebook_with_decorative_cover: :notebook_with_decorative_cover: Online Library 	:bearded_person: :curly_haired_woman:
 
+### Implemented: methods for creating, reading, updating, deleting, searching for people and books.
+### Lined up: one-to-many relationships between human and book entities.
+Implemented: sorting and pagination.
+  
 <table>
   <tbody><tr>
     <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_MVC">Online Library with Spring MVC</a></td>
