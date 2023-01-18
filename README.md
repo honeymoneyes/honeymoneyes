@@ -13,7 +13,7 @@
 
 <div align="center">
   
-### :man_technologist: About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coiny&pause=4000&color=1E1BFF&center=true&vCenter=true&width=435&height=18&lines=About+Me)](https://git.io/typing-svg)
 
 ### :coffee: I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
  
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### :hammer_and_wrench: Languages and Tools
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coiny&pause=4000&color=1E1BFF&center=true&vCenter=true&width=435&height=30&lines=Languages+and+Tools)](https://git.io/typing-svg)
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>
@@ -40,7 +40,7 @@
 <img src="https://i.imgur.com/2pD0ohD.gif" width="10000" />
 <div align="center">
   
-### :briefcase: My projects
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coiny&pause=4000&color=1E1BFF&center=true&vCenter=true&width=435&height=18&lines=My+projects)](https://git.io/typing-svg)
 
 </div>
 
