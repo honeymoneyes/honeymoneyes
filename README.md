@@ -71,7 +71,7 @@
 
 ### Implemented: methods for creating, reading, updating, deleting, searching for people and books.
 ### Lined up: one-to-many relationships between human and book entities.
-Implemented: sorting and pagination.
+### Implemented: sorting and pagination.
   
 <table>
   <tbody><tr>
