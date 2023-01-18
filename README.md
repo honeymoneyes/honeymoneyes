@@ -47,15 +47,36 @@
 
 </div>
 
+<div align="center">
+
 ### :smile: :pencil2: CRUD application :book: :mag_right:
- 
-- ### <p><a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with DAO</a></p>
 
-- ### <p><a href="https://github.com/honeymoneyes/CRUDappWithJDBC">CRUD application with JDBC</a></p>
+<table>
+  <tbody><tr>
+    <td><a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with DAO</a></td>
+    <td><a href="https://github.com/honeymoneyes/CRUDappWithJDBC">CRUD application with JDBC</a></td>
+    <td><a href="https://github.com/honeymoneyes/CRUDappWithJdbcTemplate">CRUD application with JdbcTemplate</a></td>
+  </tr>
+</tbody>
+</table>
+  </div>
+  
+---
 
-- ### <p><a href="https://github.com/honeymoneyes/CRUDappWithJdbcTemplate">CRUD application with JdbcTemplate</a></p>
+<div align="center">
 
+### :notebook_with_decorative_cover: :notebook_with_decorative_cover: Online Library 	:bearded_person: :curly_haired_woman:
 
+<table>
+  <tbody><tr>
+    <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_MVC">Online Library with Spring MVC</a></td>
+    <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_Boot">Online Library with Spring Boot</a></td>
+    <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_Security">Online Library with Spring Security</a></td>
+  </tr>
+</tbody>
+</table>
+  </div>
+  
 <div align="center">
   
 <img src="https://i.imgur.com/2pD0ohD.gif" width="10000" />  
