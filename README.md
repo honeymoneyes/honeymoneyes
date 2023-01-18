@@ -44,10 +44,26 @@
 
 </div>
 
-### :smile: :pencil2: :book: :mag_right: CRUD application
+### :smile: :pencil2: CRUD application :book: :mag_right:
  
 - ### <p><a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with DAO</a></p>
 
 - ### <p><a href="https://github.com/honeymoneyes/CRUDappWithJDBC">CRUD application with JDBC</a></p>
 
 - ### <p><a href="https://github.com/honeymoneyes/CRUDappWithJdbcTemplate">CRUD application with JdbcTemplate</a></p>
+
+
+<div align="center">
+  
+<img src="https://i.imgur.com/2pD0ohD.gif" width="10000" />  
+  
+### My certifications :crown:
+  
+<table>
+  <tbody><tr>
+    <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/honeymoneyes/CV/blob/main/coursera_sertificate.png"><img src="https://github.com/honeymoneyes/CV/blob/main/coursera_sertificate.png" width="438" height="308"  style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/honeymoneyes/CV/blob/main/sber_sertificate.png"><img src="https://github.com/honeymoneyes/CV/blob/main/sber_sertificate.png" width="438"  style="max-width: 100%;"></a></td>
+  </tr>
+</tbody>
+</table>
+  </div>
