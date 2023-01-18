@@ -35,4 +35,7 @@
 
 ### :briefcase: My projects :
 
-### :smile: :pencil2: :book: :mag_right: CRUD application with DAO: 
+### :smile: :pencil2: :book: :mag_right: CRUD application with DAO:
+### :smile: :pencil2: :book: :mag_right: CRUD application with JDBC:
+### :smile: :pencil2: :book: :mag_right: CRUD application with JdbcTemplate:
+### :smile: :pencil2: :book: :mag_right: CRUD application with Jpa/Hibernate: 
