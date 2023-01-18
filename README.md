@@ -90,7 +90,7 @@
   
 ### :cityscape: Project SBER :cityscape:
   
-### Task: implement methods for sorting cities from a list by name in alphabetical descending order without case / case 
+### Task: implement methods for sorting cities from a list by name in alphabetical descending order without case
   
 ### sensitive, sorting a list of cities by federal district and city name within each federal district in alphabetical 
   
