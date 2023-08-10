@@ -39,6 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>
@@ -53,15 +55,14 @@
 
 <div align="center">
 
-### :smile: :pencil2: CRUD application :book: :mag_right:
+### :smile: :pencil2: RestFul applications with Spring Security :book: :mag_right:
 
-### Implemented methods for creating, searching, reading, deleting, updating people from the database.  
+### Java Spring application, RESTful approach, JWT authentication, email confirmation, repositories, migrations, security, related entities. 
   
 <table>
   <tbody><tr>
-    <td><a href="https://github.com/honeymoneyes/CRUDprojectDAO">CRUD application with DAO</a></td>
-    <td><a href="https://github.com/honeymoneyes/CRUDappWithJDBC">CRUD application with JDBC</a></td>
-    <td><a href="https://github.com/honeymoneyes/CRUDappWithJdbcTemplate">CRUD application with JdbcTemplate</a></td>
+    <td><a href="https://github.com/honeymoneyes/spring_jwt_application">JWT authentication</a></td>
+    <td><a href="https://github.com/honeymoneyes/springboot_security_registration_mail_sender_token">Authentication and token confirmation by mail</a></td>
   </tr>
 </tbody>
 </table>
@@ -73,14 +74,10 @@
 
 ### :notebook_with_decorative_cover: :notebook_with_decorative_cover: Online Library 	:bearded_person: :curly_haired_woman:
 
-### Implemented: methods for creating, reading, updating, deleting, searching for people and books.
-### Lined up: one-to-many relationships between human and book entities.
-### Implemented: sorting and pagination.
+### A complex Java Spring web application using Spring Boot, MVC for queries, repositories for DB, with management of migrations, security, linked entities and HTML views.
   
 <table>
   <tbody><tr>
-    <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_MVC">Online Library with Spring MVC</a></td>
-    <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_Boot">Online Library with Spring Boot</a></td>
     <td><a href="https://github.com/honeymoneyes/Online_Library_with_Spring_Security">Online Library with Spring Security</a></td>
   </tr>
 </tbody>
@@ -94,11 +91,7 @@
   
 ### :cityscape: Project SBER :cityscape:
   
-### Task: implement methods for sorting cities from a list by name in alphabetical descending order without case
-  
-### sensitive, sorting a list of cities by federal district and city name within each federal district in alphabetical 
-  
-### descending order. Find the city with the maximum population and the number of cities in each region.
+### Java application that uses Stream API for parsing documents and performing efficient data sorting and selections. The compact code provides high performance and optimal memory utilization.
   
 <table>
   <tbody><tr>
