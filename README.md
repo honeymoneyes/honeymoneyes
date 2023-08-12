@@ -61,6 +61,7 @@
   
 <table>
   <tbody><tr>
+    <td><a href="https://github.com/honeymoneyes/spring_jwt_security_v_6.1">Spring JWT Auth 6.1.2</a></td>
     <td><a href="https://github.com/honeymoneyes/spring_jwt_application">JWT authentication</a></td>
     <td><a href="https://github.com/honeymoneyes/springboot_security_registration_mail_sender_token">Authentication and token confirmation by mail</a></td>
   </tr>
