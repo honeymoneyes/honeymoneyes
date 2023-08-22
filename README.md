@@ -54,17 +54,34 @@
 </div>
 
 <div align="center">
-
+  
 ### :smile: :pencil2: RestFul applications with Spring Security :book: :mag_right:
+
+### Effortlessly register with JWT for secure authentication. Connect socially, message privately, and share posts with images. Stay updated through a dynamic news feed.
+
+<table>
+  <tbody>
+    <tr>
+    <td align="center"><a href="https://github.com/honeymoneyes/social-media-api">Social Media API</a></td>
+    </tr>
+</tbody>
+</table>
+
+---
 
 ### Java Spring application, RESTful approach, JWT authentication, email confirmation, repositories, migrations, security, related entities. 
   
 <table>
-  <tbody><tr>
-    <td><a href="https://github.com/honeymoneyes/spring_jwt_security_v_6.1">Spring JWT Auth 6.1.2</a></td>
-    <td><a href="https://github.com/honeymoneyes/spring_jwt_application">JWT authentication</a></td>
-    <td><a href="https://github.com/honeymoneyes/springboot_security_registration_mail_sender_token">Authentication and token confirmation by mail</a></td>
-  </tr>
+  <tbody>
+    <tr>
+    <td align="center"><a href="https://github.com/honeymoneyes/spring_jwt_security_v_6.1">Spring JWT Auth 6.1.2</a></td>
+    </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/honeymoneyes/spring_jwt_application">JWT authentication</a></td>
+      </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/honeymoneyes/springboot_security_registration_mail_sender_token">Authentication and token confirmation by mail</a></td>
+      </tr>
 </tbody>
 </table>
   </div>
